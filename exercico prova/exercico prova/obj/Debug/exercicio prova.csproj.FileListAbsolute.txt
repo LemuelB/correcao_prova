@@ -1,0 +1,7 @@
+C:\Users\Lemuel\Desktop\exercico prova\exercico prova\obj\Debug\exercicio prova.csprojAssemblyReference.cache
+C:\Users\Lemuel\Desktop\exercico prova\exercico prova\obj\Debug\exercicio prova.csproj.CoreCompileInputs.cache
+C:\Users\Lemuel\Desktop\exercico prova\exercico prova\bin\Debug\exercico prova.exe.config
+C:\Users\Lemuel\Desktop\exercico prova\exercico prova\bin\Debug\exercico prova.exe
+C:\Users\Lemuel\Desktop\exercico prova\exercico prova\bin\Debug\exercico prova.pdb
+C:\Users\Lemuel\Desktop\exercico prova\exercico prova\obj\Debug\exercico prova.exe
+C:\Users\Lemuel\Desktop\exercico prova\exercico prova\obj\Debug\exercico prova.pdb

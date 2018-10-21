@@ -33,7 +33,7 @@ namespace exercico_prova
 
         public double Classificar(double imc)
         {
-            return 0.0
+            return 0.0;
         }
 
     }
